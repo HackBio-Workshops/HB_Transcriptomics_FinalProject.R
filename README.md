@@ -1,6 +1,6 @@
 # HB_Transcriptomics_FinalProject.R
 
-Overview
+Overview:
 In this project, I have 2 omics datasets (transcriptomics and epigenomics) from several asthma cases. The epigenomic data here is a measure of the DNA methylation of CpG dinucleotides. 
 Project Objective: DNA methylation is known to suppress gene expression. My task is to see if this is true for Asthma patients.
 1.I will perform differential expression between the healthy and asthmatic patients to identify the highly expressed and lowly expressed genes.
